@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TrawlBens</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signin_page">Sign In Page</string>
+    <string name="signup_page">Sign Up Page</string>
+    <string name="no_handphone">No Handphone</string>
+    <string name="regis">REGIS</string>
+    <string name="todo">TODO</string>
+    <string name="kategori">KATEGORI</string>
+    <string name="detail">Detail</string>
+    <string name="cnn">3. CNN Breaking...</string>
+    <string name="cnn2">CNN</string>
+    <string name="jawaban_code_tes_i">Jawaban Code Test I</string>
+    <string name="jawaban_code_test_ii">Jawaban code test II</string>
+    <string name="jawaban_code_test_iii">Jawaban code test III</string>
+</resources>
